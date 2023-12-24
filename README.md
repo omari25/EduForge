@@ -1,70 +1,77 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React E-Learning Platform
 
-## Available Scripts
+Welcome to our React-based E-Learning Platform! This platform is designed to provide an interactive and engaging learning experience, offering a variety of resources including videos and other materials. The backend is powered by Ruby on Rails to ensure a robust and scalable infrastructure.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+1. [Features](#features)
+2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+   - [Running the App](#running-the-app)
+3. [Project Structure](#project-structure)
+4. [Technologies Used](#technologies-used)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **User Authentication:** Users can sign up, log in, and manage their profiles.
+- **Course Catalog:** Browse and search through a catalog of available courses.
+- **Video Lessons:** Watch educational videos within the platform.
+- **Resource Library:** Access additional learning materials such as PDFs, quizzes, and assignments.
+- **Progress Tracking:** Track your progress within each course and receive completion certificates.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+Before you begin, ensure you have met the following requirements:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Node.js and npm installed. [Download and install Node.js](https://nodejs.org/).
+- Ruby on Rails installed. [Install Rails](https://rubyonrails.org/).
+- PostgreSQL database server running. [Install PostgreSQL](https://www.postgresql.org/download/).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
 
-### `npm run eject`
+   ```bash
+   git clone https://github.com/your-username/react-elearning-platform.git
+### Running the App
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Start the Rails server:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   cd backend
+   rails server
+## Project Structure
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The project is organized as follows:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **src/:** Contains the React application source code.
+- **public/:** Public assets and the HTML template.
+- **backend/:** Ruby on Rails backend application.
 
-## Learn More
+## Technologies Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Frontend:**
+- React
+- Redux for state management
+- React Router for navigation
+- Axios for API requests
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Backend:**
+- Ruby on Rails
+- PostgreSQL database
 
-### Code Splitting
+**Others:**
+- Webpack for bundling
+- Babel for JavaScript transpilation
+- ESLint for code linting
+- Jest and Enzyme for testing
+   
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License.
