@@ -1,0 +1,32 @@
+{
+    "courses": [
+        {
+            "name": "Plan",
+            "topics":[
+                {
+                    "name": "How to write a business plan",
+                    "resources": {
+                        "videos":[],
+                        "documents": [],
+                        "quizzes": [],
+                        "notes": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Grow",
+            "topics":[
+                {
+                    "name": "Finding and Attracting Investors",
+                    "resources": {
+                        "videos":[],
+                        "documents": [],
+                        "quizzes": [],
+                        "notes": []
+                    }
+                }
+            ]
+        }
+    ]
+}
