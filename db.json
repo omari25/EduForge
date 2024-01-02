@@ -1,29 +1,115 @@
 {
     "courses": [
         {
+            "id": 1,
             "name": "Plan",
-            "topics":[
+            "description": "By offering a range of courses within web development, you can cater to learners with different skill levels and interests. Ensure that each course has a clear structure, learning objectives, and hands-on projects to reinforce the concepts learned.",
+            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
+            "topics": [
                 {
+                    "id": 1,
                     "name": "How to write a business plan",
+                    "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
                     "resources": {
-                        "videos":[],
+                        "videos": [{}],
                         "documents": [],
-                        "quizzes": [],
-                        "notes": []
+                        "notes": [],
+                        "quizzes": [{}]
                     }
                 }
             ]
         },
         {
+            "id": 2,
             "name": "Grow",
-            "topics":[
+            "description": "Enhance your knowledge in finding and attracting investors for your projects. This course covers effective strategies to locate and appeal to potential investors. Practical projects will reinforce your understanding.",
+            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
+            "topics": [
                 {
+                    "id": 2,
                     "name": "Finding and Attracting Investors",
+                    "description": "Discover the art of finding and attracting investors with this specialized course. Explore proven strategies and techniques to attract the right investors for your business. Practical projects will solidify your skills.",
                     "resources": {
-                        "videos":[],
+                        "videos": [{}],
                         "documents": [],
-                        "quizzes": [],
-                        "notes": []
+                        "notes": [],
+                        "quizzes": [{}]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Grow",
+            "description": "Explore effective marketing strategies to grow your projects. Learn how to reach a wider audience and build a strong online presence. Practical projects will help you implement and refine your marketing skills.",
+            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
+            "topics": [
+                {
+                    "id": 3,
+                    "name": "Effective Marketing Strategies",
+                    "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
+                    "resources": {
+                        "videos": [{}],
+                        "documents": [],
+                        "notes": [],
+                        "quizzes": [{}]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Grow",
+            "description": "Develop your project management skills to ensure successful growth. Learn how to plan, execute, and monitor projects effectively. Practical projects will enhance your ability to manage projects in a dynamic environment.",
+            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
+            "topics": [
+                {
+                    "id": 4,
+                    "name": "Effective Project Management",
+                    "description": "Enhance your project management skills with this comprehensive course. Learn to plan, execute, and monitor projects successfully. Hands-on projects will reinforce your understanding of project management principles.",
+                    "resources": {
+                        "videos": [{}],
+                        "documents": [],
+                        "notes": [],
+                        "quizzes": [{}]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Grow",
+            "description": "Understand the importance of financial planning for sustainable growth. Learn how to manage finances effectively and make informed financial decisions. Practical projects will strengthen your financial planning skills.",
+            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
+            "topics": [
+                {
+                    "id": 5,
+                    "name": "Financial Planning for Growth",
+                    "description": "Explore the significance of financial planning for sustainable growth. Learn to manage finances effectively and make informed financial decisions. Practical projects will provide hands-on experience in financial planning.",
+                    "resources": {
+                        "videos": [{}],
+                        "documents": [],
+                        "notes": [],
+                        "quizzes": [{}]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Grow",
+            "description": "Build and lead successful teams for effective project growth. Learn team-building strategies and effective leadership skills. Practical projects will help you apply these skills in a team environment.",
+            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
+            "topics": [
+                {
+                    "id": 6,
+                    "name": "Effective Team Building",
+                    "description": "Master the art of team building with this course. Learn strategies to build and lead successful teams. Practical projects will provide hands-on experience in applying effective team-building techniques.",
+                    "resources": {
+                        "videos": [{}],
+                        "documents": [],
+                        "notes": [],
+                        "quizzes": [{}]
                     }
                 }
             ]

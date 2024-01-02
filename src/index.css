@@ -48,13 +48,35 @@
 
 
 footer{
-    position: sticky;
-    bottom: 0;
-    left: 0;
     padding: 4vw 10vw;
     display: flex;
     justify-content: space-between;
     color: #fff;
     background-color: #a53a3a;
     font-size: 18px;
+}
+
+
+
+.courses-div{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 48px;
+}
+
+.one-course-div{
+    width: 30%;
+    margin-bottom: 32px;
+    padding: 8px;
+    background-color: #e9b7b7;
+}
+
+.one-course-div h2{
+    text-align: center;
+}
+
+.one-course-div img{
+    width: 100%;
 }
