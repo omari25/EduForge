@@ -71,6 +71,8 @@ footer{
     margin-bottom: 32px;
     padding: 8px;
     background-color: #e9b7b7;
+    color: black;
+    text-decoration: none;
 }
 
 .one-course-div h2{
