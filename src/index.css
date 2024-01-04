@@ -19,6 +19,11 @@
     padding: 0 6vw;
 }
 
+.title-header-h1{
+    color: white;
+    text-decoration: none;
+}
+
 #search-input{
     width: 320px;
     height: 32px;
@@ -46,6 +51,52 @@
     font-size: 32px;
 }
 
+.courses-title-h1{
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.courses-div{
+    width: 960px;
+    padding: 48px;
+    margin: 0 auto;
+}
+
+.one-course-div{
+    display: flex;
+    width: 100%;
+    margin-bottom: 32px;
+    padding: 32px;
+    background-color: #e9b7b7;
+    color: black;
+    text-decoration: none;
+}
+
+.one-course-div h2{
+    margin-bottom: 24px;
+}
+
+.one-course-div img{
+    width: 30%;
+    margin-right: 32px;
+}
+
+.one-topic-div{
+    margin-bottom: 32px;
+    padding: 8px;
+    background-color: #e9b7b7;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
 
 footer{
     padding: 4vw 10vw;
@@ -54,31 +105,4 @@ footer{
     color: #fff;
     background-color: #a53a3a;
     font-size: 18px;
-}
-
-
-
-.courses-div{
-    display: flex;
-    width: 100%;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    padding: 48px;
-}
-
-.one-course-div{
-    width: 30%;
-    margin-bottom: 32px;
-    padding: 8px;
-    background-color: #e9b7b7;
-    color: black;
-    text-decoration: none;
-}
-
-.one-course-div h2{
-    text-align: center;
-}
-
-.one-course-div img{
-    width: 100%;
 }

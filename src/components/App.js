@@ -4,6 +4,7 @@ import Courses from "./Courses";
 import Footer from "./Footer";
 import NavBar from "./NavBar";
 import CourseTopics from "./CourseTopics";
+import OneTopic from "./OneTopic";
 
 function App() {
   const [courses, setCourses] = useState([]);
@@ -20,7 +21,8 @@ function App() {
       
       <Routes>
         <Route path="/" element={ <Courses courses={courses}/> } />
-        <Route path="courses/:courseName" element={<CourseTopics />} />
+        <Route path="courses/:id" element={ <CourseTopics courses={courses}/>} />
+        <Route path="courses/topic/:id" element={ <OneTopic courses={courses}/>} />
       </Routes>
 
       <Footer />
