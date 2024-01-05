@@ -46,7 +46,7 @@
 #search-form button:hover{
     cursor: pointer;
 }
-.navbar i{
+.navbar .user-icom{
     font-size: 32px;
 }
 

@@ -17,7 +17,7 @@ function CourseTopics({ courses }) {
     <div className='courses-div'>
       <h1 className='courses-title-h1'>EduForge - Courses - Topics</h1>
       {topics.map((topic) => (
-        <Link to={`courses/topic/${topic.id}`} key={topic.id} className='one-course-div'>
+        <Link to={`/courses/topics/${topic.id}`} key={topic.id} className='one-course-div'>
           <img src={topic.posterFrame} alt="" />
           <div>
             <h2>{topic.name}</h2>

@@ -1,4 +1,5 @@
 import React from 'react'
+import { FaRegCircleUser } from "react-icons/fa6";
 import { Link } from 'react-router-dom'
 
 function NavBar() {
@@ -11,7 +12,7 @@ function NavBar() {
         <input type="search" name="" id="search-input" placeholder='Search'/>
         <button type="submit">Submit</button>
       </form>
-      <i class="fa-regular fa-circle-user"></i>
+      <FaRegCircleUser className='user-icom'/>
     </div>
   )
 }
