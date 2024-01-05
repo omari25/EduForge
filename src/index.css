@@ -4,7 +4,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    /* font-family: 'Passion One', sans-serif; */
     font-family: 'Mulish', sans-serif;
 }
 
@@ -72,6 +71,11 @@
     text-decoration: none;
 }
 
+.one-course-div:hover{
+    background-color: #d89797;
+    box-shadow: 10px 10px 24px -5px #000000bf;
+}
+
 .one-course-div h2{
     margin-bottom: 24px;
 }
@@ -79,14 +83,6 @@
 .one-course-div img{
     width: 30%;
     margin-right: 32px;
-}
-
-.one-topic-div{
-    margin-bottom: 32px;
-    padding: 8px;
-    background-color: #e9b7b7;
-    color: black;
-    text-decoration: none;
 }
 
 
