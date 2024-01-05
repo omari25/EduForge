@@ -1,11 +1,12 @@
 import React from 'react'
 import { Link, useParams } from 'react-router-dom';
+import toUrlParam from './toUrlParam';
 
 function CourseTopics({ courses }) {
 
-  const { id } = useParams();
+  const { courseName } = useParams();
 
-  const selectedCourse = courses.find(course => course.id === parseInt(id, 10));
+  const selectedCourse = courses.find(course => toUrlParam(course.name) === courseName);
 
   if (!selectedCourse) {
     return <div>No item found for the given ID</div>;
@@ -17,7 +18,7 @@ function CourseTopics({ courses }) {
     <div className='courses-div'>
       <h1 className='courses-title-h1'>EduForge - Courses - Topics</h1>
       {topics.map((topic) => (
-        <Link to={`/courses/topics/${topic.id}`} key={topic.id} className='one-course-div'>
+        <Link to={`${toUrlParam(topic.name)}`} key={topic.id} className='one-course-div'>
           <img src={topic.posterFrame} alt="" />
           <div>
             <h2>{topic.name}</h2>

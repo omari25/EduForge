@@ -21,8 +21,8 @@ function App() {
       
       <Routes>
         <Route path="/" element={ <Courses courses={courses}/> } />
-        <Route path="courses/:id" element={ <CourseTopics courses={courses}/>} />
-        <Route path="courses/topics/:id" element={<OneTopic courses={courses} />} />
+        <Route path="courses/:courseName" element={ <CourseTopics courses={courses}/>} />
+        <Route path="courses/:id/:id" element={<OneTopic courses={courses} />} />
       </Routes>
 
       <Footer />
