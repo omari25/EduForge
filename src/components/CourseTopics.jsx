@@ -9,7 +9,7 @@ function CourseTopics({ courses }) {
   const selectedCourse = courses.find(course => toUrlParam(course.name) === courseName);
 
   if (!selectedCourse) {
-    return <div>No item found for the given ID</div>;
+    return <div>Loadding...</div>;
   }
 
   const topics = selectedCourse.topics

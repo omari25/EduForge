@@ -85,10 +85,24 @@
     margin-right: 32px;
 }
 
+.topic-resources-div{
+    width: 1240px;
+    padding: 16px;
+    background-color: #e9b7b7;
+    margin: 64px auto;
+    display: flex;
+    justify-content: flex-end;
+}
 
+.videos-list-div{
+    width: 60%;
+    padding: 24px;
+    background-color: white;
+}
 
-
-
+.videos-list-div-title{
+    
+}
 
 
 
@@ -102,3 +116,4 @@ footer{
     background-color: #a53a3a;
     font-size: 18px;
 }
+
