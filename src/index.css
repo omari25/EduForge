@@ -88,7 +88,7 @@
 .topic-resources-div{
     width: 1240px;
     padding: 16px;
-    background-color: #e9b7b7;
+    border: 1px solid #cecece;
     margin: 64px auto;
     display: flex;
     justify-content: flex-end;
@@ -97,13 +97,18 @@
 .videos-list-div{
     width: 60%;
     padding: 24px;
-    background-color: white;
+    border: 1px solid #cecece;
 }
 
 .videos-list-div-title{
-    
+    width: 100%;
+    display: flex;
 }
 
+.videos-list-div-title img{
+    width: 24%;
+    margin-right: 24px;
+}
 
 
 

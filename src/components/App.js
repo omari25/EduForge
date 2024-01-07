@@ -25,7 +25,7 @@ function App() {
         <Route path="courses/:courseName/:courseTopic" element={<OneTopic courses={courses} />} />
       </Routes>
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

@@ -20,7 +20,7 @@
                 },
                 {
                     "id": 2,
-                    "name": "How to write a business plan",
+                    "name": "Hello there",
                     "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
@@ -44,30 +44,6 @@
                 },
                 {
                     "id": 4,
-                    "name": "How to write a business plan",
-                    "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 5,
-                    "name": "How to write a business plan",
-                    "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 6,
                     "name": "How to write a business plan",
                     "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
@@ -134,30 +110,6 @@
                         "notes": [],
                         "quizzes": [{}]
                     }
-                },
-                {
-                    "id": 5,
-                    "name": "Finding and Attracting Investors",
-                    "description": "Discover the art of finding and attracting investors with this specialized course. Explore proven strategies and techniques to attract the right investors for your business. Practical projects will solidify your skills.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 6,
-                    "name": "Finding and Attracting Investors",
-                    "description": "Discover the art of finding and attracting investors with this specialized course. Explore proven strategies and techniques to attract the right investors for your business. Practical projects will solidify your skills.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
                 }
             ]
         },
@@ -205,30 +157,6 @@
                 },
                 {
                     "id": 4,
-                    "name": "Effective Marketing Strategies",
-                    "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 5,
-                    "name": "Effective Marketing Strategies",
-                    "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 6,
                     "name": "Effective Marketing Strategies",
                     "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
@@ -294,192 +222,8 @@
                         "notes": [],
                         "quizzes": [{}]
                     }
-                },
-                {
-                    "id": 5,
-                    "name": "Effective Project Management",
-                    "description": "Enhance your project management skills with this comprehensive course. Learn to plan, execute, and monitor projects successfully. Hands-on projects will reinforce your understanding of project management principles.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 6,
-                    "name": "Effective Project Management",
-                    "description": "Enhance your project management skills with this comprehensive course. Learn to plan, execute, and monitor projects successfully. Hands-on projects will reinforce your understanding of project management principles.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
                 }
             ]
-        },
-        {
-            "id": 5,
-            "name": "Grow",
-            "description": "Understand the importance of financial planning for sustainable growth. Learn how to manage finances effectively and make informed financial decisions. Practical projects will strengthen your financial planning skills.",
-            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-            "topics": [
-                {
-                    "id": 1,
-                    "name": "Financial Planning for Growth",
-                    "description": "Explore the significance of financial planning for sustainable growth. Learn to manage finances effectively and make informed financial decisions. Practical projects will provide hands-on experience in financial planning.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 2,
-                    "name": "Financial Planning for Growth",
-                    "description": "Explore the significance of financial planning for sustainable growth. Learn to manage finances effectively and make informed financial decisions. Practical projects will provide hands-on experience in financial planning.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 3,
-                    "name": "Financial Planning for Growth",
-                    "description": "Explore the significance of financial planning for sustainable growth. Learn to manage finances effectively and make informed financial decisions. Practical projects will provide hands-on experience in financial planning.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 4,
-                    "name": "Financial Planning for Growth",
-                    "description": "Explore the significance of financial planning for sustainable growth. Learn to manage finances effectively and make informed financial decisions. Practical projects will provide hands-on experience in financial planning.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 5,
-                    "name": "Financial Planning for Growth",
-                    "description": "Explore the significance of financial planning for sustainable growth. Learn to manage finances effectively and make informed financial decisions. Practical projects will provide hands-on experience in financial planning.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 6,
-                    "name": "Financial Planning for Growth",
-                    "description": "Explore the significance of financial planning for sustainable growth. Learn to manage finances effectively and make informed financial decisions. Practical projects will provide hands-on experience in financial planning.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "name": "Grow",
-            "description": "Build and lead successful teams for effective project growth. Learn team-building strategies and effective leadership skills. Practical projects will help you apply these skills in a team environment.",
-            "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-            "topics": [
-                {
-                    "id": 1,
-                    "name": "Effective Team Building",
-                    "description": "Master the art of team building with this course. Learn strategies to build and lead successful teams. Practical projects will provide hands-on experience in applying effective team-building techniques.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 2,
-                    "name": "Effective Team Building",
-                    "description": "Master the art of team building with this course. Learn strategies to build and lead successful teams. Practical projects will provide hands-on experience in applying effective team-building techniques.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 3,
-                    "name": "Effective Team Building",
-                    "description": "Master the art of team building with this course. Learn strategies to build and lead successful teams. Practical projects will provide hands-on experience in applying effective team-building techniques.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 4,
-                    "name": "Effective Team Building",
-                    "description": "Master the art of team building with this course. Learn strategies to build and lead successful teams. Practical projects will provide hands-on experience in applying effective team-building techniques.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 5,
-                    "name": "Effective Team Building",
-                    "description": "Master the art of team building with this course. Learn strategies to build and lead successful teams. Practical projects will provide hands-on experience in applying effective team-building techniques.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                },
-                {
-                    "id": 6,
-                    "name": "Effective Team Building",
-                    "description": "Master the art of team building with this course. Learn strategies to build and lead successful teams. Practical projects will provide hands-on experience in applying effective team-building techniques.",
-                    "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
-                    "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
-                        "quizzes": [{}]
-                    }
-                }
-            ]
-        }
+        }        
     ]
 }
