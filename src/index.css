@@ -7,6 +7,10 @@
     font-family: 'Mulish', sans-serif;
 }
 
+.App{
+    background-color: #eeeeee;
+}
+
 .navbar{
     height: 64px;
     background-color: #a53a3a;
@@ -66,14 +70,15 @@
     width: 100%;
     margin-bottom: 32px;
     padding: 32px;
-    background-color: #e9b7b7;
+    border: 1px solid #cecece;
     color: black;
     text-decoration: none;
+    border-radius: 8px;
+    background-color: white;
 }
 
-.one-course-div:hover{
-    background-color: #d89797;
-    box-shadow: 10px 10px 24px -5px #000000bf;
+.one-course-div:hover h2{
+    color: #d42e2e;
 }
 
 .one-course-div h2{
@@ -87,7 +92,8 @@
 
 .topic-resources-div{
     width: 1024px;
-    margin: 64px auto;
+    margin: 0 auto;
+    padding: 64px 0;
     display: flex;
     justify-content: space-between;
 }
@@ -102,6 +108,7 @@
     margin-bottom: 24px;
     padding: 24px;
     text-align: center;
+    background-color: white;
 }
 
 ol.sidebar-topics-list{
@@ -109,6 +116,7 @@ ol.sidebar-topics-list{
     list-style-position: inside;
     border: 1px solid #cecece;
     font-weight: bold;
+    background-color: white;
 }
 
 .topics-link-list{
@@ -131,6 +139,7 @@ ol.sidebar-topics-list{
 .videos-list-div{
     width: 68%;
     border: 1px solid #cecece;
+    background-color: white;
 }
 
 .videos-list-div-title{
