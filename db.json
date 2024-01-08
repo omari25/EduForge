@@ -3,111 +3,262 @@
         {
             "id": 1,
             "name": "Plan",
-            "description": "By offering a range of courses within web development, you can cater to learners with different skill levels and interests. Ensure that each course has a clear structure, learning objectives, and hands-on projects to reinforce the concepts learned.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
             "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
             "topics": [
                 {
                     "id": 1,
-                    "name": "How to write a business plan",
-                    "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
+                    "name": "How to Create a Business Plan",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 1,
+                                "name": "Introduction to Business Planning",
+                                "videoUrl": "https://example.com/video1.mp4"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Creating a Vision Statement",
+                                "videoUrl": "https://example.com/video2.mp4"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Financial Projections",
+                                "videoUrl": "https://example.com/video3.mp4"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Pitching Your Business Idea",
+                                "videoUrl": "https://example.com/video4.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 2,
-                    "name": "Hello there",
-                    "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
+                    "name": "Hello Business",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 1,
+                                "name": "Getting Started with Entrepreneurship",
+                                "videoUrl": "https://example.com/video5.mp4"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Building Your Brand",
+                                "videoUrl": "https://example.com/video6.mp4"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Customer Acquisition",
+                                "videoUrl": "https://example.com/video7.mp4"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Networking for Success",
+                                "videoUrl": "https://example.com/video8.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 3,
-                    "name": "How to write a business plan",
-                    "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
+                    "name": "Business Writing Mastery",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 1,
+                                "name": "Crafting Effective Emails",
+                                "videoUrl": "https://example.com/video9.mp4"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Professional Report Writing",
+                                "videoUrl": "https://example.com/video10.mp4"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Business Proposal Essentials",
+                                "videoUrl": "https://example.com/video11.mp4"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Communicating with Impact",
+                                "videoUrl": "https://example.com/video12.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 4,
-                    "name": "How to write a business plan",
-                    "description": "Develop your skills in business planning with this comprehensive course. Learn to create effective business plans that can guide your entrepreneurial journey. Hands-on projects will help you apply theoretical knowledge to real-world scenarios.",
+                    "name": "Strategic Business Planning",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 1,
+                                "name": "Setting Business Goals",
+                                "videoUrl": "https://example.com/video13.mp4"
+                            },
+                            {
+                                "id": 2,
+                                "name": "SWOT Analysis Techniques",
+                                "videoUrl": "https://example.com/video14.mp4"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Strategic Decision Making",
+                                "videoUrl": "https://example.com/video15.mp4"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Measuring Business Performance",
+                                "videoUrl": "https://example.com/video16.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 }
             ]
-            
         },
         {
             "id": 2,
             "name": "Grow",
-            "description": "Enhance your knowledge in finding and attracting investors for your projects. This course covers effective strategies to locate and appeal to potential investors. Practical projects will reinforce your understanding.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
             "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
             "topics": [
                 {
                     "id": 1,
                     "name": "Finding and Attracting Investors",
-                    "description": "Discover the art of finding and attracting investors with this specialized course. Explore proven strategies and techniques to attract the right investors for your business. Practical projects will solidify your skills.",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 1,
+                                "name": "Effective Team Collaboration",
+                                "videoUrl": "https://example.com/video17.mp4"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Innovative Product Development",
+                                "videoUrl": "https://example.com/video18.mp4"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Customer Relationship Management",
+                                "videoUrl": "https://example.com/video19.mp4"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Financial Planning Strategies",
+                                "videoUrl": "https://example.com/video20.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 2,
-                    "name": "Finding and Attracting Investors",
-                    "description": "Discover the art of finding and attracting investors with this specialized course. Explore proven strategies and techniques to attract the right investors for your business. Practical projects will solidify your skills.",
+                    "name": "Pitch Perfect",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 1,
+                                "name": "Effective Marketing Campaigns",
+                                "videoUrl": "https://example.com/video21.mp4"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Leadership in the Workplace",
+                                "videoUrl": "https://example.com/video22.mp4"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Risk Management Principles",
+                                "videoUrl": "https://example.com/video23.mp4"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Digital Transformation Trends",
+                                "videoUrl": "https://example.com/video24.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 3,
-                    "name": "Finding and Attracting Investors",
-                    "description": "Discover the art of finding and attracting investors with this specialized course. Explore proven strategies and techniques to attract the right investors for your business. Practical projects will solidify your skills.",
+                    "name": "Financial Fundamentals",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 13,
+                                "name": "Effective Communication Strategies",
+                                "videoUrl": "https://example.com/video25.mp4"
+                            },
+                            {
+                                "id": 14,
+                                "name": "Agile Project Management",
+                                "videoUrl": "https://example.com/video26.mp4"
+                            },
+                            {
+                                "id": 15,
+                                "name": "Ethical Business Practices",
+                                "videoUrl": "https://example.com/video27.mp4"
+                            },
+                            {
+                                "id": 16,
+                                "name": "Data Analytics for Business",
+                                "videoUrl": "https://example.com/video28.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 4,
-                    "name": "Finding and Attracting Investors",
-                    "description": "Discover the art of finding and attracting investors with this specialized course. Explore proven strategies and techniques to attract the right investors for your business. Practical projects will solidify your skills.",
+                    "name": "Investor Relations Mastery",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
-                        "videos": [{}],
-                        "documents": [],
-                        "notes": [],
+                        "videos": [
+                            {
+                                "id": 1,
+                                "name": "Supply Chain Optimization",
+                                "videoUrl": "https://example.com/video29.mp4"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Employee Motivation Techniques",
+                                "videoUrl": "https://example.com/video30.mp4"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Crisis Management Strategies",
+                                "videoUrl": "https://example.com/video31.mp4"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Brand Building Essentials",
+                                "videoUrl": "https://example.com/video32.mp4"
+                            }
+                        ],
                         "quizzes": [{}]
                     }
                 }
@@ -115,55 +266,47 @@
         },
         {
             "id": 3,
-            "name": "Grow",
-            "description": "Explore effective marketing strategies to grow your projects. Learn how to reach a wider audience and build a strong online presence. Practical projects will help you implement and refine your marketing skills.",
+            "name": "Market",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
             "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
             "topics": [
                 {
                     "id": 1,
-                    "name": "Effective Marketing Strategies",
-                    "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
+                    "name": "Digital Marketing Essentials",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 2,
-                    "name": "Effective Marketing Strategies",
-                    "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
+                    "name": "Social Media Mastery",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 3,
-                    "name": "Effective Marketing Strategies",
-                    "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
+                    "name": "Content Marketing Strategies",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 4,
-                    "name": "Effective Marketing Strategies",
-                    "description": "Master the art of effective marketing with this course. Explore a range of strategies to reach and engage your target audience. Practical projects will provide hands-on experience in implementing these strategies.",
+                    "name": "Brand Building Techniques",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 }
@@ -171,59 +314,51 @@
         },
         {
             "id": 4,
-            "name": "Grow",
-            "description": "Develop your project management skills to ensure successful growth. Learn how to plan, execute, and monitor projects effectively. Practical projects will enhance your ability to manage projects in a dynamic environment.",
+            "name": "Manage",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
             "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
             "topics": [
                 {
                     "id": 1,
-                    "name": "Effective Project Management",
-                    "description": "Enhance your project management skills with this comprehensive course. Learn to plan, execute, and monitor projects successfully. Hands-on projects will reinforce your understanding of project management principles.",
+                    "name": "Project Management Fundamentals",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 2,
-                    "name": "Effective Project Management",
-                    "description": "Enhance your project management skills with this comprehensive course. Learn to plan, execute, and monitor projects successfully. Hands-on projects will reinforce your understanding of project management principles.",
+                    "name": "Agile Project Management",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 3,
-                    "name": "Effective Project Management",
-                    "description": "Enhance your project management skills with this comprehensive course. Learn to plan, execute, and monitor projects successfully. Hands-on projects will reinforce your understanding of project management principles.",
+                    "name": "Leadership in Project Teams",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 },
                 {
                     "id": 4,
-                    "name": "Effective Project Management",
-                    "description": "Enhance your project management skills with this comprehensive course. Learn to plan, execute, and monitor projects successfully. Hands-on projects will reinforce your understanding of project management principles.",
+                    "name": "Risk Management Strategies",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt nisi eu facilisis gravida.",
                     "posterFrame": "https://images.saymedia-content.com/.image/t_share/MTc4ODEwMzkyMzgxMTcxMjA3/6-things-to-check-before-you-pay-for-an-online-course.jpg",
                     "resources": {
                         "videos": [{}],
-                        "documents": [],
-                        "notes": [],
                         "quizzes": [{}]
                     }
                 }
             ]
-        }        
+        }
     ]
 }

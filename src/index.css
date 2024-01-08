@@ -86,28 +86,84 @@
 }
 
 .topic-resources-div{
-    width: 1240px;
-    padding: 16px;
-    border: 1px solid #cecece;
+    width: 1024px;
     margin: 64px auto;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+}
+
+.one-topic-left-div{
+    width: 30%;
+}
+
+.progress-videos-div{
+    width: 100%;
+    border: 1px solid #cecece;
+    margin-bottom: 24px;
+    padding: 24px;
+    text-align: center;
+}
+
+ol.sidebar-topics-list{
+    width: 100%;
+    list-style-position: inside;
+    border: 1px solid #cecece;
+    font-weight: bold;
+}
+
+.topics-link-list{
+    display: block;
+    padding: 24px;
+    color: black;
+    text-decoration: none;
+    border-top: 1px solid #cecece;
+}
+
+.topics-link-list:first-child {
+    border-top: none;
+}
+
+.topics-link-list:hover{
+    background-color: #eeeeee;
+    color: #d42e2e;
 }
 
 .videos-list-div{
-    width: 60%;
-    padding: 24px;
+    width: 68%;
     border: 1px solid #cecece;
 }
 
 .videos-list-div-title{
-    width: 100%;
     display: flex;
+    padding: 32px;
 }
 
 .videos-list-div-title img{
     width: 24%;
     margin-right: 24px;
+}
+
+.video-link{
+    display: block;
+    padding: 24px;
+    color: black;
+    text-decoration: none;
+    border-top: 1px solid #cecece;
+    display: flex;
+    align-items: center;
+}
+
+.video-link:hover{
+    background-color: #eeeeee;
+}
+
+.video-link:hover h4{
+    color: #d42e2e;
+}
+
+.video-icon{
+    font-size: 32px;
+    margin-right: 32px;
 }
 
 
