@@ -22,9 +22,8 @@
     padding: 0 6vw;
 }
 
-.title-header-h1{
-    color: white;
-    text-decoration: none;
+.logo-image{
+    width: 200px;
 }
 
 #search-input{
